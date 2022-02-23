@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached to a country auditory upon the eleventh of November being the day appointed for a solemn Thanksgiving for a late victory at sea, and His Majesty's safe return out of Flanders / by Samuel Clerke ...</title>
+            <author>Clark, Samuel, 1626-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33293</idno>
+            <idno type="STC">Wing C4497</idno>
+            <idno type="STC">ESTC R39372</idno>
+            <idno type="EEBO-CITATION">18389815</idno>
+            <idno type="OCLC">ocm 18389815</idno>
+            <idno type="VID">107445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107445)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1630:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached to a country auditory upon the eleventh of November being the day appointed for a solemn Thanksgiving for a late victory at sea, and His Majesty's safe return out of Flanders / by Samuel Clerke ...</title>
+                  <author>Clark, Samuel, 1626-1701.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crooke and sold by R. Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Psalms CXLIV, 9-10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107445:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED TO A Country Auditory, Upon the <hi>Eleventh</hi> of <hi>November,</hi> Being the DAY Appointed for a <hi rend="blackletterType">Solemn Thanksgiving</hi> For a Late VICTORY by SEA; And His <hi>MAJESTY's</hi> Safe Return OUT OF FLANDERS.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL CLERKE,</hi> B. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Crooke.</hi> And Sold by <hi>R. Taylor,</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107445:2"/>
+            <pb facs="tcp:107445:2"/>
+            <head>To the Right Honourable JOHN Lord CUTTS, BARON of GOWREN.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>TO whom could a Diſcourſe of this nature (I mean, <hi>A Thanksgiving Sermon,</hi> for the happy <hi>Deliverance</hi> of our Royal <hi>David</hi> from the <hi>hurtful Sword</hi>) be more fitly Dedicated, than to your <hi>Honour,</hi> who ſo deeply ſhared in the <hi>Dan<g ref="char:EOLhyphen"/>ger</hi> with His <hi>Majeſty?</hi>
+            </p>
+            <p>Accept of it, Noble Sir, not for its own Worth, but as a <hi>Specimen</hi> of the <hi>Author's Senſe</hi> of Your's, and his <hi>Obligations</hi> to You.</p>
+            <p>You, by that of <hi>Vertue,</hi> are arrived at the Tem<g ref="char:EOLhyphen"/>ple of <hi>Honour.</hi> Sir, I beſeech <hi>Almighty God,</hi> that You may be ever in the <hi>Aſcendent,</hi> and that no <hi>malign Aſpect</hi> may intervene, at leaſt to <hi>ſully,</hi> much
+<pb facs="tcp:107445:3"/>leſs <hi>Eclipſe</hi> Your <hi>Splendor;</hi> till this <hi>Mortal</hi> ſhall have put on <hi>Immortality,</hi> and You your <hi>Self</hi> become a Fixed <hi>Star</hi> in <hi>Heaven,</hi> where is no Viciſſitude or Alteration. Thus Prayeth</p>
+            <closer>
+               <signed>Your Honour's moſt humble and Faithful Servant, <hi>SAM. CLERKE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:107445:3" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM CXLIV. Verſes ix, x.</hi>
+                  </bibl>
+                  <p>I will ſing a new Song unto thee, O God: upon a Pſaltery, and an Inſtrument of ten Strings, will I ſing praiſes unto thee.</p>
+                  <p>It is he that giveth Salvation unto Kings; who delivereth <hi>Da<g ref="char:EOLhyphen"/>vid</hi> his Servant from the hurtful Sword.</p>
+               </q>
+            </epigraph>
+            <p>HAving but heard theſe Words read, there is ſcarce any One of ſo ſhallow a Capacity, but may con<g ref="char:EOLhyphen"/>ceive them pertinent and ſuting well with the Time and Occaſion of this our preſent Meeting: For is here not mention made of <hi>Kings,</hi> the <hi>Salvation of Kings;</hi> nay, of one above the reſt, <hi>David</hi> in great Danger, yet delivered, and that from the <hi>Sword</hi> too? All very perti<g ref="char:EOLhyphen"/>nent and congruous. God had many times and often deli<g ref="char:EOLhyphen"/>vered <hi>David;</hi> but he inſiſts here chiefly on that one, (that both to us is proper and peculiar,) <hi>the hurtful Sword.</hi>
+            </p>
+            <p>Now, with me (I beſeech you, dear Chriſtians) (<hi>Behold our KING!</hi> a Pious and Proteſtant Prince, the Servant of God, <hi>Jealous for the Lord of Hoſts, Zealous for his Church and People;</hi> (like the <hi>Royal Eagle</hi>) throwing Himſelf be<g ref="char:EOLhyphen"/>tween Them and Danger: Behold Him, by God delivered, wonderfully delivered, from the Death-threatning Cannon, and the hurtful Sword. And ſo the Words read, are no other than a Comment upon the Day; at once pointing out to us, both our Happineſs and our Duty: Our Happineſs in the Preſervation of <hi>His Majeſty;</hi> our Duty in returning God Thanks for it; which to encourage us alſo unto, we
+<pb n="2" facs="tcp:107445:4"/>have a Royal Preſident before us; who, upon the very ſame account, (even <hi>God's Salvation and Deliverance,</hi>) ſnatches up his <hi>Pſaltery,</hi> tunes his <hi>Strings,</hi> promiſes a <hi>New Song. I will ſing a new Song unto thee, O God: upon a Pſaltery, and an Inſtrument of ten Strings, will I ſing praiſes unto thee.</hi>
+            </p>
+            <p>See here the Subject-matter of this Song, <hi>a Song of thanks<g ref="char:EOLhyphen"/>giving:</hi> Of Thankſgiving! For what? What Mercy, what Favour is the holy man ſo thankful for? It was no other than the King's Safety.</p>
+            <p>Becauſe God the Preſerver of Kings, had here delivered his Servant <hi>David</hi> from the <hi>hurtful Sword:</hi> He therefore re<g ref="char:EOLhyphen"/>ſolves upon a new Song of <hi>Praiſe and Thanksgiving.</hi> This is the Subſtance of my <hi>Text;</hi> And, as of what was then with great Joy ſung by <hi>Iſrael,</hi> ſo of what this Day we are called to. Upon the receipt of any <hi>new Mercy,</hi> God ſhall not load <hi>David</hi> with his Mercies, but the Heavens ſhall Reſound with his grateful Praiſes and Acknowledgments. <hi>I will ſing a new Song unto thee, O God: upon an Instrument of ten Strings will I ſing praiſes unto thee.</hi> He it is that <hi>giveth Salvation unto Kings: who delivereth his Servant</hi> David <hi>from the hurtful Sword.</hi> In which Words we have theſe Conſiderables. (1.) Here is Salvation given; a Deliverance wrought. (2.) To, or for whom? To Kings in general; to <hi>David</hi> in particular. (3.) By whom, <hi>viz.</hi> by God. (4.) Here is the Return made by <hi>David,</hi> both in behalf of himſelf and others. <hi>I will ſing, &amp;c.</hi> Take the Whole ſumm'd up in two <hi>Theorems,</hi> or <hi>Doctrinal Propoſitions.</hi>
+            </p>
+            <p n="1">1. All Kings and under God's immediate Care and Pro<g ref="char:EOLhyphen"/>tection; but above all, good Ones. Or, rather thus: God
+<pb n="3" facs="tcp:107445:4"/>giveth Salvation unto Kings in general; but his Servants, (ſuch as <hi>David</hi> was) he delivereth in an eſpecial manner. <hi>He it is that giveth Salvation unto Kings: who delivereth</hi> David <hi>his Servant from the hurtful Sword.</hi>
+            </p>
+            <p n="2">2. Thoſe that are thus delivered by him, ſhould praiſe God, and be thankful to him. <hi>I will ſing a new Song unto thee, O God: upon a Pſaltery, and an Inſtrument of ten Strings will I ſing praiſes unto thee.</hi> In the diſcuſſing of which, (for my more methodical proceeding) I ſhall ſpeak to theſe ſeverals. (1.) That God giveth Salvation to Kings in general: with the Reaſons why, and manner how he effects it. I ſhall de<g ref="char:EOLhyphen"/>ſcend, (2ly.) to Particulars; and make it good in <hi>David</hi> the Servant of God, in my <hi>Text.</hi> (3ly.) In our <hi>Royal Da<g ref="char:EOLhyphen"/>vid,</hi> King <hi>William,</hi> in the Day. (4ly.) I ſhall ſpeak brief<g ref="char:EOLhyphen"/>ly to my Second Propoſition. And (laſtly,) I ſhall cloſe up all, with a ſeaſonable Application.</p>
+            <p>To clear the <hi>Theſis;</hi> That God giveth Salvation to Kings in general: I ſhall proceed by a Threefold Gradation. (1.) Shewing, That God giveth Salvation. (2ly.) That he giveth Salvation unto Men, above other Creatures: And, (3ly.) To Kings, above other Men.</p>
+            <p n="1">1. To give Salvation is ſo congruous to the Divine Na<g ref="char:EOLhyphen"/>ture, that God claims it to himſelf as his Native Property and Peculiar, (<hi>Iſa.</hi> 43.11.) <hi>I, even I am the Lord, and be<g ref="char:EOLhyphen"/>ſides <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e there is no Saviour. I, even I am the Lord:</hi> This re<g ref="char:EOLhyphen"/>doubled <hi>I,</hi> is emphatical and excluſive: <hi>And, beſides me there is no Saviour.</hi> They are but groſs Idolaters, that put their truſt in Man: Or, with the deluded <hi>Papiſts,</hi> ſet up for <hi>Sa<g ref="char:EOLhyphen"/>viours,</hi> the <hi>Saints departed.</hi>
+            </p>
+            <pb n="4" facs="tcp:107445:5"/>
+            <p>It is worth our Note, what <hi>Ferdinand</hi> King of <hi>Arragon,</hi> ſending his Son againſt the <hi>Florentines,</hi> ſpake to him, <hi>Victo<g ref="char:EOLhyphen"/>ria, mihi crede, non hominum diſciplinis nec induſtria compa<g ref="char:EOLhyphen"/>ratur; ſed Dei Optimi Maximi benignitate &amp; arbitrio:</hi> 
+               <q rend="margDblQuotes">Be<g ref="char:EOLhyphen"/>lieve me, Son, Victories are not gotten by Art or Induſtry, but given of God.</q>
+            </p>
+            <p>If we look into the Prophecy of <hi>Jonah,</hi> what we meet with (Chap. 2.9.) may be ſaid to be the Argument of the whole Book, and might have concluded every Chapter therein, <hi>viz,</hi> That Salvation is of the Lord. The Mariners, (ſaith the R. R<hi rend="sup">d.</hi> Biſhop <hi>King,</hi> in his Lectures on that Pro<g ref="char:EOLhyphen"/>phet) might have written upon their Ship, inſtead of <hi>Caſtor</hi> and <hi>Pollux,</hi> Or, the like Device, <hi>Salvation is the Lord's.</hi> The <hi>Ninivites</hi> might have written upon their Gates, <hi>Salva<g ref="char:EOLhyphen"/>tion is the Lord's.</hi> And whole Mankind, whoſe Cauſe is pi<g ref="char:EOLhyphen"/>tied and pleaded by God, againſt the hardneſs of <hi>Jonah's</hi> Heart, might have written in the Palms of their Hands, <hi>Sal<g ref="char:EOLhyphen"/>vation is the Lord's.</hi> It is the Argument of both the <hi>Testa<g ref="char:EOLhyphen"/>ments;</hi> the Staff and Supportation of Heaven and Earth: They would both ſink, and all the Joynts be ſevered, if the <hi>Salvation of the Lord be not.</hi> The Birds of the Air ſing no other <hi>Note,</hi> the Beaſts in the Field give no other <hi>Voice,</hi> than, <hi>Salvation is the Lord's.</hi> Which leads me to the Second Gradation, <hi>He is the Saviour;</hi> and (that ſo great is his Pity and Compaſſion) both of Man and Beaſt, (<hi>Pſal.</hi> 36.6.) the Beaſt as well as Man; but Man before (or, rather above) the Beaſt. Now, that Man is more in the Eye, or Care of Divine Providence, than the Brutes, is clear in this, That the very Brutes are made for Man, and much more the Crea<g ref="char:EOLhyphen"/>tures
+<pb n="5" facs="tcp:107445:5"/>below them: For Man doth the Day break, and the Sun ſhine, and the Rain fall, and the Waters flow, and the Graſs grow, and all the Herbs of the Field ſpring up and flouriſh, after their ſeveral kinds. For him are the Fields crowned with Corn, and the Vallies laden with Graſs: For Him are the Hills lifted up, and the Cattel made that feed upon the Hills: For the feeding of him do the Herds feed, and for his ſake are the Flocks themſelves clothed with Wooll; for him doth the Horſe were his hoof, and the Oxe yield his neck unto the yoke, and before him doth the Camel kneel, to receive the burthen upon his back. Now ſince God made man the end of other creatures, and them a mean to his content and preſervation; and ſince the end is always valued more then the mean is; we muſt needs conclude that God is more con<g ref="char:EOLhyphen"/>cern'd for man, for whom all things were made, then thoſe very things which were made for him. Hence that of St. <hi>Paul</hi>'s double Expoſtulation, (1 <hi>Cor.</hi> 9.9, 10.) <hi>Doth God take care for Oxen?</hi> Gr, ſaith he it altogether for our ſake? For our Sakes no doubt this is written: That he that Ploweth, ſhould plow in hope, &amp; he that Threſheth in hope, ſhould be Partaker of his hope: As much as to ſay, the Care of Beaſts is not to be taken before that of Men: We are God's chief Care; where<g ref="char:EOLhyphen"/>fore <hi>Job</hi> gives God this Title as peculiar to him, (<hi>Job</hi> 7.20. <hi>I have ſinned, what ſhall I do unto thee, O) thou Preſerver of men?</hi> He it is that <hi>Giveth Salvation unto</hi> men. But,</p>
+            <p n="3">(3ly.) To Kings chiefly above the reſt of Men μάλιςα διο<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>πρερέων βασιλέων. (as the <hi>Poet</hi> not impertinently,) Above all the Race of Mankind, Kings go neareſt the Heart of God, and are his prime Care. <hi>Great deliverance giveth he unto them,</hi> (Pſa. 18.
+<pb n="6" facs="tcp:107445:6"/>
+               <hi>ult) He is their Tower of Salvation,</hi> ſaith <hi>Samuel,</hi> and (Pſal. 28.8) <hi>The Lord is their ſtrength, and he is the ſaving ſtrength of his A<g ref="char:EOLhyphen"/>nointed.</hi> In all Things God is wonderful; but of all, in the Pre<g ref="char:EOLhyphen"/>ſervation of crowned heads; in none more, in none equal there<g ref="char:EOLhyphen"/>unto. What can be more evident now, than, that God giveth Salvation unto Kings? To Kings I ſay, in general; for of Kings as they are God's Servants, I ſhall ſpeak more at large in its proper place.</p>
+            <p>He giveth Salvation: what Salvation giveth? Be it of what<g ref="char:EOLhyphen"/>ſoever kind it will, it is from him; whether it be that of the phy<g ref="char:EOLhyphen"/>ſician, a ſound and healthy body againſt Diſeaſes; as they are mortal men. For, as it was pointed out to us by <hi>Daniel</hi>'s Image, (<hi>Dan.</hi> 2.33.) whoſe Leggs were of Iron, his feet part of clay and part of Iron. Thus Kings are the Peopl's Treaſures; but yet treaſures in earthen Veſſels; they have need therefore of God's help and ſalvation. 'Tis true, if we ſhould underſtand it in this ſenſe; this God gives; but this is not the genuine meaning of the place: For this ſalvation here ſpoken of, is from the <hi>Sword,</hi> not from <hi>ſickneſs;</hi> from evil Manners, nor ill humours, from ex<g ref="char:EOLhyphen"/>ternal Force, not internal Dyſcraſie. God gives <hi>Salvation; this ſalvation gives he unto Kings;</hi> and to Kings above others. I might argue <hi>à fortiori.</hi> If God takes care of that which is leſs worthy and becoming his care, much more will he do ſo of that which is more worth: Therefore ſince even the beaſts and other inferiour creatures are cared for by God, much more muſt Men the higheſt of creatures in the world, and Kings the higheſt of Men be under the ſame Watch. <hi>It is he that giveth Salvation unto</hi> Kings.</p>
+            <p>Here it may not be amiſs to enquire a little into the Rea<g ref="char:EOLhyphen"/>ſons of this God's Care and Protection of Kings, and ex<g ref="char:EOLhyphen"/>amine
+<pb n="7" facs="tcp:107445:6"/>what probably may be the Cauſes, why God is plea<g ref="char:EOLhyphen"/>ſed to give <hi>Salvation</hi> to them above all others.</p>
+            <p>The Reaſons I ſhall offer, are Three: The Firſt, taken from God. The Second, from Kings themſelves. The Third, from the People.</p>
+            <p n="1">1. God giveth <hi>Salvation</hi> unto Kings; becauſe by him they are raiſed up and dignified: <hi>By me Kings reign, and Princes decree Justice,</hi> Prov. 8.15. And as repreſenting him, they are called Gods, <hi>Pſal.</hi> 82.6. <hi>I have ſaid, Ye are Gods.</hi> I have ſaid it, who then dare gain-ſay it? <hi>Ye are Gods,</hi> that is, in God's ſtead, ſet in his Room, inveſted with his Power and Authority, his Vicegerents, his Repreſentatives, his chief Miniſters. Does not St. <hi>Paul,</hi> ſpeaking of the Supream Magiſtrate, tell us, <hi>That he is the Miniſter of God,</hi> Rom. 3.4. We are not capable of immediate Converſe with God, therefore he Rules us by Men like our ſelves; he Governs Men by Man, and ſo puts Man into his own Place: There is hereupon a neceſſity of God's Protecting them as his De<g ref="char:EOLhyphen"/>legates.</p>
+            <p>Among Foreigners, ſuch as the Ambaſſadors of Kings, (as alſo their Repreſentatives at home,) thoſe that Impower them, and whom they Repreſent, are careful of their Pre<g ref="char:EOLhyphen"/>ſervation, and to vindicate them from Contempt; the Ho<g ref="char:EOLhyphen"/>nour of the Ambaſſador, is the Honour of him that ſends him; and the Diſgrace of the Repreſentative redounds to him whoſe Repreſentative he is: our <hi>David</hi> himſelf, when his Embaſſadors were ill uſed, whom he ſent to the King of <hi>Ammon,</hi> after his Fathers Death, he took it as done to him<g ref="char:EOLhyphen"/>ſelf, (2 <hi>Sam.</hi> 10.4.) He thence ſeverely revenged the In<g ref="char:EOLhyphen"/>jury
+<pb n="8" facs="tcp:107445:7"/>as his own (<hi>Cap.</hi> 4.) The great God of <hi>Heaven,</hi> does he not the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame? His Honour cannot be intire and full, unleſs theirs be ſo, who are his Subſtitutes; for his Honours ſake he will procure their Salvation. By him they are Ordain'd, by <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what they are, <hi>Rom.</hi> 13.2. Hitherto is to be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whatever belongeth to God, as he is intereſted for them, being their Founder and Preſerver; their Preſer<g ref="char:EOLhyphen"/>ver ſo far forth, that they be not Wronged, and their Re<g ref="char:EOLhyphen"/>ven<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> if they be ſo.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Therefore God giveth Salvation unto Kings, and taketh care of Princes, above all others, becauſe they are expoſed to greater Dangers than other Men. Certainly they muſt needs be in greater Danger, in that the Devil, that envious one, maligns them moſt; he aims at their Deſtruction above all others, and no better can be expected from him; whoſe Name in the <hi>Hebrew</hi> is <hi>Abaddon,</hi> in the <hi>Greek Apollyon,</hi> and in our <hi>Engliſh</hi> Deſtroyer, a name diametrically op<g ref="char:EOLhyphen"/>poſite to that of God, who is the Preſerver; and of the Holy Jeſus his Son, who is a Saviour, that's the import of his Name, (<hi>Matth.</hi> 1.21.) <hi>For he ſhall ſave his people from their ſins.</hi> To deſtroy all, is the Devil's whole Employ: whereas God preſerves and ſaves both man and beaſt (as before.) yet above all men, Kings: and above all Kings, ſuch pious Ones as our <hi>David</hi> was.</p>
+            <p>All Kings are hateful to the Prince of Darkneſs; even an <hi>Ahaſuerus,</hi> an <hi>Ethnic</hi> King (<hi>Esth.</hi> 2.21.) He will cut him off (if poſſible) by his own <hi>Eunuchs:</hi> but a <hi>David,</hi> how oft ſhall he be ſet upon? It is his own obſervation (<hi>Pſal.</hi> 118.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Thou haſt thruſt ſore at me that I might fall, but the Lord <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lped me.</hi>
+            </p>
+            <pb n="9" facs="tcp:107445:7"/>
+            <p>It is altogether needfull ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be One to ſave; Sin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there is one, nay many to deſtro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>But why is the Devil ſet ſo u<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the deſtruction of Kings? No doubt it is, becauſe Kings are Mortal Enemies to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im: By their Authority and Power it comes to paſs that Sir is re<g ref="char:EOLhyphen"/>ſtrained, and his Kingdom weakned. <hi>Ye ſhall n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after all thoſe things we do here this day, every Man wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is right in his own Eyes, (Deut.</hi> 12.8.) To do what ever a Man co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or would, without Impunity, is that wicked One's deſire <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cauſe it is for the advancement of his Kingdom to have it ſo. Now when is it ſo; but when there is no King? When the Author of the Book of <hi>Judges</hi> would pourtraict to the life, the ſad and pitiable eſtate of <hi>Iſrael,</hi> in the Intervals of Go<g ref="char:EOLhyphen"/>vernment; he aſcribes this as the main Reaſon for the Com<g ref="char:EOLhyphen"/>miſſion of their execrable Enormities, <hi>That there was no</hi> King <hi>in</hi> Iſrael; and by conſequence, no Peace, no Juſtice, no Re<g ref="char:EOLhyphen"/>ligion: For then every <hi>Micah</hi> will have his Cloſet of Idols, and will worſhip as himſelf thinks fit.</p>
+            <p>Truly, without Magiſtracy, not only whatever is Sacred would be uſurped, abuſed, deſtroyed; but alſo there would be no ſuch thing as Liberty and Property in this, or any other Kingdom, (which the Generality make ſuch a Cla<g ref="char:EOLhyphen"/>mour, a Noiſe about.) Therefore if Men would not have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe entrenched upon and abridg'd, no better way to ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure them, than by the preſervation of their Governours, more eſpecially their Kings: For theſe, theſe are they that prevent ſuch Enormities.</p>
+            <p>What the Soul is to the Body, ſuch is the King to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdom, the Principle of Life, the Spring of M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion, the
+<pb n="10" facs="tcp:107445:8"/>Vital Fountain of all Power and Activity. Give me leave to ſpeak once more, and add; That he is the Heir of Reſtraint, Inveſted with the Sword, <hi>Which he bears not in vain.</hi> The <hi>Devil</hi> knows this to his <hi>Cost,</hi> who is above all things for <hi>Anarchy</hi> and <hi>Confuſion:</hi> As God is for <hi>Decency</hi> and <hi>Order,</hi> which if he cannot bring about, then muſt Kings one after another be cut off, and brought to utter deſtruction. We ſee the Reaſon plain and obvious.</p>
+            <p>How the Devil does proſecute the ruine of Kings, may not be amiſs likewiſe (by the bye) to enquire briefly into<g ref="char:punc">▪</g> We have his Emiſſaries ſet forth to the life, <hi>Rev.</hi> 9.2, 3. <hi>And he opened the bottomleſs Pit, and there aroſe ſmoak out of the Pit, as the ſmoak of a great Furnace, and the Sun and the Air were darkned by reaſon of the ſmoak of the Pit: And there came out of the ſmoak Locuſts upon the Earth: And to them was given power, as Scorpions of the Earth have power.</hi> Theſe are the Emiſſaries of that Infernal Monarch; ſworn Enemies as himſelf, to Kings. But what are theſe <hi>Locusts?</hi> the <hi>Monks Fryars</hi> and <hi>Jeſuits,</hi> (ſaith an Expoſitor upon the place) are moſt fitly called ſo, for their Numeroſity and Voracity Theſe, like <hi>Locuſts,</hi> are great Waſters and Devourers, and in other reſpects peculiarly like them, <hi>which having no king go out by bands,</hi> Prov. 30.27. Thoſe whom our <hi>Pſalmi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> twice in this <hi>Pſalm</hi> calls <hi>Strange Children;</hi> theſe St. <hi>Joh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſtyles <hi>Locuſts</hi> here, <hi>a Generation</hi> (would I could not ſay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> better known to us than to <hi>David,</hi> of which we have h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Swarms in our Age.</p>
+            <p>Strange Children indeed! a Generation of Men tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> term themſelves <hi>of the Society of Jeſus;</hi> But was n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="11" facs="tcp:107445:8"/>
+               <hi>Jeſus</hi> a <hi>Saviour?</hi> If they bear his <hi>Name,</hi> why then, accord<g ref="char:EOLhyphen"/>ing to the import thereof, do they not give <hi>Salvation?</hi> I'm ſure (to our coſt) we experience the quite contrary: than theſe, who worſe ſpoken of, and that not undeſervedly? For as <hi>Satan</hi>'s Emiſſaries, are they not Traytors to Kings, and Betrayers of Kingdoms, whereſoever they get footing? I leave it to all the World to judge, whether they be not <hi>ſtrange Children?</hi> who under the pretence of the Name of a falſe <hi>Jeſus,</hi> act quite oppoſite to the Nature of the <hi>true One. Deſtructions, Treaſons, Seditions;</hi> are they not their main Employ? Have not we to our coſt found it ſo? We may truly comply with our <hi>Pſalmiſt</hi> here, That his ſtrange Chil<g ref="char:EOLhyphen"/>dren and they are of the very ſame Progeny; they are of one Stock and Lineage; their marks correſpond in all things. Theſe ſtrange Children, we have it twice repeated in this <hi>Pſalm,</hi> that it might not eſcape our Note, (ſee <hi>Verſe</hi> 8.11.) <hi>Their mouth ſpeaketh vanity, and their right hand is a right hand of falſhood.</hi>
+            </p>
+            <p>Are not our <hi>Locuſts</hi> in all things like to theſe? How dextrous are they at Lying? What are their Equivocations better? Do they not ſpeak one thing, and think another? And that their right hand is a right hand of falſhood; whe<g ref="char:EOLhyphen"/>ther they give it upon a Civil or Religious account, their Faith (or Oath) is nothing worth: their right hand is falſe, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd deceitful, both Mouth and Hand are alienated from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Heart and Mind; as that is from God: I mean from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>God of Truth:</hi> for the <hi>Devil,</hi> the <hi>God of this World,</hi> is well pleaſed with it. It is he that maketh uſe of theſe (under <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Notion you pleaſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) That of <hi>St. John</hi>'s <hi>Locuſts,</hi> or
+<pb n="12" facs="tcp:107445:9"/>
+               <hi>David</hi>'s <hi>ſtrange Children;</hi> theſe he makes uſe of to ſharpen the <hi>hurtful Sword,</hi> mix the Poyſons, and ſet on fire the Pow<g ref="char:EOLhyphen"/>der; with which their King <hi>Apollyon</hi> gives diligent Com<g ref="char:EOLhyphen"/>mand to his Agents, as the King of <hi>Aſſyria</hi> did to his Cap<g ref="char:EOLhyphen"/>tains, 1 <hi>Kings</hi> 21.31. <hi>Fight not with ſmall or great, ſave only the King.</hi> Him cut off any ways, ſo you do it ſome ways; by Sword, Fire, Carbine, Cannon: 'Tis no matter which way, ſo it be done. This is their charge: the King their Aim.</p>
+            <p>Concerns it not us now fervently to pray, That there may be one to ſave; ſince there is ſuch a Legion to deſtroy? that there may be one to cover the King with his Shield and Buckler; ſince there are many to ſtretch out their hurtfull Swords againſt him. Oh! let there be a <hi>Jeſus</hi> to ſave; while there is a <hi>Jeſuit,</hi> a Devil to deſtroy!</p>
+            <p>The reaſon why, and manner how Kings are maligned, and their ruin ſought after, you can be no longer ignorant of. As long as there is a Devil in Hell who delights in, and will be contriving the Miſery and Confuſion of Men: So long will they be ſtanding at the hands of Kings; and endeavouring to ſtir up evil men againſt them.</p>
+            <p>And ſo long as Pride and Ambition, Covetouſneſs and Diſcontent find places to harbour in, there will not wan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Traytors and Rebels. Now the more dangerous and hazardous the condition of Kings is, the more doth the Divine Providence take care of them; and more <hi>Signall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> remark it ſelf in their Protection and preſervation, Laſtly. God giveth S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vation unto Kings, out of his meer Love to Man<g ref="char:EOLhyphen"/>kind, for whoſe benefit and good they were ordained. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:107445:9"/>is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſie to prove (would time permit) that Monarchy is the b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> form of Government in the World; and that Kings are the moſt regular conſervators of order and government. Kings are really for the good and happineſs of the People: the good of the one is included in, and greatly dependent on the other. Whatever we may think of their State and Grandeur, or how much ſoever we may gaze at their Pomp and Splendour, it is we that really gain by all; For the World is preſerved and kept from <hi>Barbariſm</hi> and Confuſi<g ref="char:EOLhyphen"/>on by their means. There's nothing more certain, than that the peoples Security, is wrapt up in their King's ſafety: God ſaves them, that they may ſave us. Hereupon He hath call<g ref="char:EOLhyphen"/>ed the Magiſtracy, not Gods only; but <hi>Davids</hi> too.</p>
+            <p>Look we into the book of <hi>Judges,</hi> and as oft as the Author thereof, makes mention of the Chief Magiſtrate: God (ſaith he) hath raiſed up a Saviour. Thus were <hi>Oth<g ref="char:EOLhyphen"/>niel, Gideon, Jephthah,</hi> and the reſt ſtiled (<hi>Judg.</hi> 3.9.15.) Saviours they are of many thouſands: and to ſave is con<g ref="char:EOLhyphen"/>ſentaneous, becoming, altogether worthy of God: He gives Salvation to them, in whom conſiſts our ſafety.</p>
+            <p>It is a ſignal place that of <hi>St. Paul</hi> (1 <hi>Tim.</hi> 2.1, 2, 3.) Let Supplications and Prayers be made for all men, for Kings, and all that are in Authority: as much as to ſay, if for them, then for all, it cannot be well with the People, if not well with them: the Apoſtle's gradation: is remarkable; For Kings (ſaith he) that all men may be ſaved: and if ſo; then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here will be a ſetled peace: if a ſettled peace, then the knowledg of God: if the knowledg of God, then an honeſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd pious Life: and if an honeſt and pious Life, then the
+<pb n="14" facs="tcp:107445:10"/>welfare of the whole World. As if the welfare of Kings were the Corner-Stone of all Salvation.</p>
+            <p>But why do I ſtraggle ſo much abroad, when we have nearer hand, even in this very <hi>Pſalm,</hi> plenty of inſtances? We are to give thanks (ſaith my Text) and Pray for the Kings welfare and Salvation: and why is it, but, <hi>That our Sons</hi> (v. 12.) may <hi>be as plants grown up in their youth;</hi> that <hi>our daughters</hi> may be <hi>as corner-ſtones, poliſhed</hi> after <hi>the ſimilitude of a palace:</hi> That <hi>our garners</hi> may be <hi>full</hi> (v. 13.) <hi>affording all manner of store;</hi> that <hi>our ſheep may bring forth thouſands, and ten thouſands in our ſtreets:</hi> That <hi>our oxen</hi> may be <hi>ſtrong to labour;</hi> (v. 14.) that there be <hi>no breaking in nor going out; that</hi> there be <hi>no complaining in our ſtreets.</hi> None of this will be; yet all will be, when the King is ſafe Here are Earthly Bleſſings attend the Kings welfare. Now what remains more? There is one more yet, which include all the reſt, and that is (<hi>v.</hi> 15.) <hi>Happy is that people, who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God is the Lord:</hi> now to have God our Lord, is to ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion ſecured amongſt us, which depends much upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Prince.</p>
+            <p>This is evident in holy Writ, would time ſuffer me t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> produce inſtances. Let this ſuffice for the laſt reaſon, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God takes ſuch care of Kings, or giveth Salvation to them a<g ref="char:EOLhyphen"/>bove others, even becauſe God loves the ſociety of Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he delights in their Peace and Order, in their Proſperity an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Happineſs, to all which they do not a little contribute. <hi>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have ten parts in the King,</hi> ſaid the ten Tribes, (2 <hi>Sam.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 43.) every man hath intereſt in the Prince; every mans intere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is his, and his intereſt is every mans; and being that a who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:107445:10"/>Kingdom is the general concernment of King, a King e<g ref="char:EOLhyphen"/>ſpecially is hereupon the eſpecial concernment of God.</p>
+            <p>If now you ask me how God giveth Salvation unto <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I anſwer, By his Word. (2.) By ſtretching forth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hand, and exerting his utmoſt power in their defence. <hi>(i.e.)</hi> By a word of Salvation; which none yet was ever able to with<g ref="char:EOLhyphen"/>ſtand. By a threefold Edict (as by a triple hedg) He hath fortified the ſafety of Kings.</p>
+            <p n="1">(1) <hi>Touch not mine Anointed,</hi> (Pſal. 150.15.) there <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fenceth them from the hand of violence.</p>
+            <p n="2">(2) <hi>Curſe not the Prince of the People,</hi> (Exod. 22. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> there from the virulent tongue.</p>
+            <p n="3">(3) <hi>Detract not from him in thy very thought,</hi> (E<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 10.20.) Here from the petulancy of the mind, if from theſe three they can be ſecure, they are ſafe indeed. This care doth God take of Princes.</p>
+            <p>But becauſe not enough ſometimes, in that breaking down this threefold hedge, the ſtrange Children will muti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and rebell againſt them, therefore, (2) God will make uſe of his hand as well as mouth, and exert his Power for their preſervation. He will oppoſe himſelf to their wicked counſels, and traiterous perſons.</p>
+            <p n="1">(1) To their counſels: Either by detecting them before they come to maturity; or quaſhing them and defeating <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem when ripe; and all things ready to accompliſh them.</p>
+            <p n="1">(1) In order to their detection it is ſaid, (<hi>Pſal.</hi> 132.17.) <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have ordained a lamp for mine anointed.</hi> A lamp, wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat? it is faithful counſel. Such as when <hi>Mordicai</hi> acc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he two traitors for conſpiring againſt <hi>Ahaſuerus, (Eſt.</hi> 2.
+<pb n="16" facs="tcp:107445:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and when the Prophet <hi>Eliſha</hi> (2 <hi>King.</hi> 6.9.) diſcover<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſtratagems of the Kings of <hi>Syria,</hi> to the King of <hi>Iſrael.</hi>
+            </p>
+            <p n="2">(2) Where this Lamp of a King fails, there the light<g ref="char:EOLhyphen"/>ning of God begins: which ſhall make known what the o<g ref="char:EOLhyphen"/>ther cannot: You will, I know, be inquiſitive after this light<g ref="char:EOLhyphen"/>ning of God, what is meant by it. I ſhall refer you to <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> who informs us (<hi>Eccleſ.</hi> 10.20.) in theſe words, <hi>When the Birds of the ſhall declare the matter.</hi> (i.e.) when by wonderfull ways, and without the help of Man, a thing is brought to light, they either make their own tongues to be<g ref="char:EOLhyphen"/>tray themſelves (<hi>Pſal.</hi> 64.8.) or are ſo brought to con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſion, that the hand of God is manifeſted in it. God is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onderful in the protecting of Kings; in none more: by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending forth this his lightning, and bringing to light the moſt ſecret counſels of rebellous Miſcreants.</p>
+            <p>But ſupoſe all in a dark obſcurity, and ready to take birth: why now even now, God can confound all. He will touch the Mountains, and they ſhall ſmoak. <hi>Abſalom</hi>'s affairs came to a great progreſs, Mountain-like: but God toucheth <hi>Abſa<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> and cauſeth him to reject that counſel (which would have done his buſineſs for him) to his own ruin (2 <hi>Sam.</hi> 17.14.) God will touch <hi>Adonijah,</hi> even with a Panick fear, that when his buſineſs was almoſt done, he ſhall not dare to ac<g ref="char:EOLhyphen"/>compliſh it (1 <hi>Kings</hi> 1.49.) ſo that all things turn to ſmoak, and vaniſh. Hence that of our Royal Pſalmiſt, (<hi>Pſa.</hi> 62.3. <hi>How long will you imagine miſchief? ye ſhall be ſlain all of ye, as a bowing Wall ſhall you be, and as a totter<g ref="char:EOLhyphen"/>ing Fence.</hi> Thus doth God oppoſe himſelf to the wicked
+<pb n="17" facs="tcp:107445:11"/>counſels of ſuch as hatch Treaſon, and conſpire againſt Princes.</p>
+            <p n="2">(2.) Againſt their Treaſons God exerts himſelf, and ſheweth that he will ſtand up for the preſervation of Kings; <hi>He will make ready his Arrows upon their ſtrings, againſt the face of their enemies,</hi> (Pſal. 21.12.) <hi>Then ſhall ye under<g ref="char:EOLhyphen"/>ſtand</hi> (as in the caſe of <hi>Korah,</hi> Numb. 16.28, 29, 30) <hi>that the Lord himſelf giveth Salvation unto Kings, when the Hand of the Lord is gone out againſt their enemies.</hi> For he that durſt break down the Hedge before mentioned, what ſhall become of him? Did not <hi>Sheba</hi> for this loſe his Head? <hi>Shimei</hi> his life? and the two Eunuchs theirs? What ſhall I add more? Time would fail me to tell you of <hi>Baanah</hi> and <hi>Rechab, Abſalom</hi> and <hi>Achitophel, Adonijah</hi> and <hi>Joab, Zimri</hi> and <hi>Jozabad,</hi> with infinite more, who, for attempt<g ref="char:EOLhyphen"/>ing their Kings death, procured their own by it. Moſt ſure it is, that <hi>Salvation is of the Lord,</hi> as (<hi>Pſalm</hi> 3.8.) and as ſure that, <hi>He giveth Salvation unto Kings, and delivereth</hi> David <hi>his Servant from the hurtful Sword.</hi>
+            </p>
+            <p>Why is the Accent put upon Kings? Doth not the Wing of Gods Providence extend to all his Children? Have not others a ſhare therein too? The Queſtion is pro<g ref="char:EOLhyphen"/>pounded by the Reverend and Learned Dr. <hi>Featly,</hi> who thus anſwers his own Propoſal.</p>
+            <p>
+               <q rend="margSglQuotes">Yes, Gods Providence extends to all; but yet Kings are neareſt to his Breaſt, they receive more warmth from him, he hath a ſpecial care of them; He keepeth them as the Signet of his Finger, becauſe in them the Image of His Majeſty ſhineth moſt brightly. It concerneth him in Ho<g ref="char:EOLhyphen"/>nour
+<pb n="17" facs="tcp:107445:12"/>(<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ith he) to maintain them that are his Vicegerent, upon Earth. It concerneth him in Love to defend the <hi>De<g ref="char:EOLhyphen"/>fenders of the Faith,</hi> and cheriſh the <hi>Nurſing-Fathers</hi> of his deareſt Spouſe. It concerneth him in Wiſdom to ſave them who are the breath of ſo many thouſand Noſtrils; to keep them whole, who are the bond which holds to<g ref="char:EOLhyphen"/>gether the Common-wealth. In the danger of a King is the hazard of a State; in the hazard of a State, the ruine of a Church; in the ruine of a Church, God's Houſe lieth in the Duſt. The Heathen Poet glanceth at this Truth, when every where he ſtiled Kings διοτρεφεῖς, as it were bred up and foſtered in the boſom of <hi>Jove,</hi> in their Dia<g ref="char:EOLhyphen"/>lect, <hi>Jehovah</hi> in ours: <hi>Keep [me</hi> (ſaith <hi>David) as the Apple of thine Eyes;</hi> Who can endure the leaſt prick in that tender place? No more will God abide his Anointed to be touched, (1 <hi>Chron.</hi> 16.22.)</q>
+            </p>
+            <p>You have heard, dear Chriſtians! why God giveth Sal<g ref="char:EOLhyphen"/>vation unto Kings.</p>
+            <p n="1">(1.) Becauſe they are his Vicegerents, his Deputies, and his Honour is complicated in their Salvation.</p>
+            <p n="2">(2.) Becauſe the Devil, that malicious one, with his in<g ref="char:EOLhyphen"/>fernal Agents, ſeeks their deſtruction, And</p>
+            <p>Laſtly.) Becauſe in their Salvation conſiſts the Peoples happineſs. You have alſo heard why and how God giveth Salvation unto them. Paſs we now from the <hi>Theſis</hi> to the <hi>Hypotheſis;</hi> from Gods giving Salvation to Kings in gene<g ref="char:EOLhyphen"/>ral, to his delivering <hi>David</hi> his ſervant in particular, from the hurtful ſword, which is the</p>
+            <p n="2">(2.) And next in order, St. <hi>Paul</hi> tells us that God is the
+<pb n="18" facs="tcp:107445:12"/>Saviour of all men; but chiefly of them that believe, and I ſhall dare to ſay, the Saviour of all Kings, but the Pious above all; the reaſon for both is intirely the ſame, We may gather it thus:</p>
+            <p>If the Divine Providence watcheth over Kings indefinite<g ref="char:EOLhyphen"/>ly, Kings in general; what muſt he needs do then upon thoſe that are faithful, and rule over ſuch as are devoted to his Service? If he is wonderful in the Kings of the Earth, what then muſt he needs be in thoſe Kings who are Nurſing-Fathers to his Church and People? If in an Ethnick <hi>Ahaſuerus,</hi> what in a religious <hi>David,</hi> a devout, a Pious Prince? what a King is among men, that is a <hi>Da<g ref="char:EOLhyphen"/>vid</hi> among Kings: what then ſhall God do for him? and for all like him? As they are precious in the eyes of the Lord, ſo will he think nothing too much for them</p>
+            <p>Thoſe things, which are but ſingle in other Kings, we may find conjunct in <hi>David,</hi> a King, and a ſervant of God too: wherefore, becauſe a King, he will give him Salvation, and becauſe his Servant, he will deliver him from the hurtful Sword. Becauſe a King, he hath in common with all Kings Gods care attending him; and becauſe his Servant, he hath a propriety above the reſt; as a King, by him he Reigns; as God's Servant, he is directed and governed by him.</p>
+            <p>All Kings, as immediately conſtituted by God, are his Viceroys, and deputed Servants; he is therefore, <hi>King of Kings, Lord of Lords.</hi> But yet all do not acknowledge God, nor ſhew themſelves his Servants. His Servant <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar;</hi> ſo God ſpake by the Prophet, <hi>Jer.</hi> 27.6.
+<pb n="20" facs="tcp:107445:13"/>But did that great King acknowledge this? No, he nei<g ref="char:EOLhyphen"/>ther acknowledged himſelf <hi>Servant,</hi> nor. God, <hi>Lord.</hi> For ſo ſpeaks he to the Three Children, <hi>Dan.</hi> 3.15. <hi>Let us ſee what God can deliver you out of my hands.</hi>
+            </p>
+            <p>Nor did <hi>Pharaoh</hi> acknowledge this: <hi>Who is the Lord?</hi> (ſaith he) <hi>Exod.</hi> 5.2. But our Pſalmiſt was in another Note, He is free in his acknowledgments this way (<hi>Pſalm.</hi> 116.16) <hi>Behold, Lord, I am thy Servant, I am thy Servant, and the Son of thine Handmaid.</hi> Nor did he ſay this only, but in his works he ſhewed himſelf ſo: He ſpake it not by conſt aint, but he made it his buſineſs to do the will of God. He was ſo ſolicitous in the Lords matters, that he would not go up to his Bed, nor take his reſt till the Ark of God was provided for, (<hi>Pſalm.</hi> 132.2, 3.) In the bringing that back again, among other Servants of God, he ſo demeaned himſelf, that <hi>Michel</hi> (his own Wife) deſpiſed him, as con<g ref="char:EOLhyphen"/>temptible for his humility, 2 <hi>Sam.</hi> 6.20. But he never thought himſelf humble enough before the Lord, never ſolicitous enough in performing his will. <hi>David</hi> was tru<g ref="char:EOLhyphen"/>ly God's Servant, humble as a Servant, faithful as a Ser<g ref="char:EOLhyphen"/>vant, <hi>a Servant according to his own heart,</hi> 1 <hi>Sam.</hi> 13.14. Moſt truly therefore, and to our purpoſe, it is here ſaid, David <hi>his Servant.</hi> Hereupon we have that of God con<g ref="char:EOLhyphen"/>cerning his Servant <hi>David,</hi> Pſalm 89.21. <hi>My own Hand ſhall help him, and my own Arm uphold him, nor ſhall his enemies ſucceed against him, nor ſhall the ſon of wickedneſs approach to hurt him (i. e.)</hi> in one word, <hi>I will deliver him.</hi>
+            </p>
+            <pb n="21" facs="tcp:107445:13"/>
+            <p>Now, what God promiſed he perform <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he ſave him, from many (ſhall I ſay?) dangers; to keep to the Letter of my Text, I ſhall rather ſay weapons; keen, drawn, wielded againſt him. He delivered him from the Sword of <hi>Goliah,</hi> from the Javelin of <hi>Saul,</hi> and (which is moſt proper here) from <hi>the hurtful Sword.</hi>
+            </p>
+            <p>All Kings are God's Servants πρὸς ἡγεμόνα απαίδευτον (ſaith <hi>Plutarch</hi>) for the common good of Mankind; but <hi>David</hi> by a ſpecialty. He was God's moſt ſpecial care (as in the Text;) <hi>He it is that giveth Salvation unto Kings, who de<g ref="char:EOLhyphen"/>livereth</hi> David <hi>his Servant from the hurtful Sword.</hi>
+            </p>
+            <p n="3">(3.) Our Royal <hi>David,</hi> God's Servant alſo, and lately delivered, is the next to be ſpoken to. The ſame God de<g ref="char:EOLhyphen"/>livered both; both from the Sword, <hi>from the hurtful Sword,</hi> both. I need not ſpend time in giving you the particulars, you all know the danger he was in, danger ſo great, that we can attribute it to nothing elſe but God's Care and Pro<g ref="char:EOLhyphen"/>tection, that he hath outliv'd it. How was His Majeſty wrapt over and over in the Snares of Death? yet hath he broken the Snares, <hi>and is eſcaped.</hi>
+            </p>
+            <p>It is plain to all unbiaſs'd and conſidering men, that never did a Nation enjoy more by a King, than ours have done by this we have: Never were People more happy, than we might be under him (if we pleaſe and) were not the fault <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur own. Never was it more remarkably true, that the <hi>Powers that are over us, are ſet over us by God,</hi> than in our Caſe. His Majeſty's coming in, and Eſtabliſhment here, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g a Miracle in the ſight of all the World. And I wiſh, it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould not be ſaid as truly too, that never was a Prince ex<g ref="char:EOLhyphen"/>pos<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="22" facs="tcp:107445:14"/>to more dangers and troubles, than he has been.</p>
+            <p>Should we recollect the paſt Paſſages of his Life, and ſo<g ref="char:EOLhyphen"/>berly make remarks upon the ſame, I do not well know, whe<g ref="char:EOLhyphen"/>ther we ſhould more admire his Fate, and wonder to ſee ſo many dangers and adverſities ſhould encounter to ſpend their ſpight againſt one man; or that Providence and Care of Almighty God, that hath ſtill brought him through. Theſe Providences and Cares have been freſhly inſtanced very late<g ref="char:EOLhyphen"/>ly, in a Deliverance from a Conſpiracy abroad, hatched by a ſort of men that nothing can oblige; no kindneſſes, no en<g ref="char:EOLhyphen"/>dearments; no, not Religion it ſelf, the tranquill enjoy<g ref="char:EOLhyphen"/>ment of the true Proteſtant Religion. Oh the barbarous in<g ref="char:EOLhyphen"/>tendments of the worſt of Men! Abhorrent in any, but above any, in our Clime. Religious Plots, <hi>Proteſtant</hi> Treaſons, oh Helliſh Contradictions!</p>
+            <p>But can they deny what is obvious to all? The King's ha<g ref="char:EOLhyphen"/>zards in Battel, wherein (not one, but often) he hath ex<g ref="char:EOLhyphen"/>pos'd himſelf to the utmoſt dangers, thereby greatly encou<g ref="char:EOLhyphen"/>raging his friends, and ſtriking a dread and terrour into his e<g ref="char:EOLhyphen"/>nemies, who never yet had the courage to withſtand him?</p>
+            <p>Not to tell you of His Majeſty's danger at the <hi>Boyne,</hi> where a Cannon Bullet <hi>bruſht</hi> upon his Shoulder; it was no leſs than a Miracle that it did but <hi>bruſh</hi> him, importing Hea<g ref="char:EOLhyphen"/>vens Care of him, and that he was dear to God in his Preſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>But perchance ſome may think this too foreign, at leaſt too antique and old. I ſhall therefore produce a freſher In<g ref="char:EOLhyphen"/>ſtance, and that within the compaſs of this Days Thankſgiv<g ref="char:EOLhyphen"/>ing, (being in <hi>Flanders,</hi> from whence our Royal Sovereign
+<pb n="23" facs="tcp:107445:14"/>not long ſince return'd) an Inſtance no leſs miraculous tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the former, when another Cannon Bullet, ſeeming to do him Homage, kiſs'd the place where he juſt before ſat, but yet came not there till he himſelf had quitted it, which was not above a Minute. An aſtoniſhing Deliverance! The late Naval Victory, can that be oppugn'd, deny'd by any? and was not the Hand of God in it? It is as clear as the Sun in its Noon-Day Luſtre, that the Wind fought againſt the Enemy, as the Stars once againſt <hi>Siſera.</hi> The Wind hindred the <hi>French</hi> approaching us, and gave us an opportunity of coming up to them, which was no ſooner done, but God bleſſed His Majeſty's Forces with that Succeſs which uſually attends his Royal Perſon; than whom, never any more ſignal<g ref="char:EOLhyphen"/>ly delivered.</p>
+            <p>It is no new thing to hear of our Royal <hi>David</hi> and his troubles, his reiterated troubles and dangers; nor (bleſſed be God for it) to hear of his Deliverances alſo; his repeated Deliverances. The one runs parallel with the other, litter<g ref="char:EOLhyphen"/>ally making that of our <hi>Pſalmiſt</hi> good (<hi>Pſalm</hi> 34.19) <hi>Many are the afflictions of the Righteous, but the Lord deliver<g ref="char:EOLhyphen"/>eth them out of all.</hi>
+            </p>
+            <p>The truth is, the Life of our King <hi>William the Third,</hi> hath been a continual Scene of Providence and Danger, even from the Cradle, an Inſtance (hardly to be ſeconded) of God's great and ſpecial Care, not rarely attending the Perſons of thoſe Princes to whom Religion and his Honour is dear, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I am perſwaded they be to this our Sovereign. A Prince, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pious as Valiant, and as forward to Praiſe God his Saviour, as he is ready to deliver him, which brings me to my</p>
+            <pb n="24" facs="tcp:107445:15"/>
+            <p n="2">2d. Propoſition, <hi>That thoſe that are delivered, ſhould praiſe God, and be thankful to him.</hi>
+            </p>
+            <p n="1">(1.) Common Morality doth inform every common capa<g ref="char:EOLhyphen"/>city of this common Principle in Divinity, <hi>We must be thank<g ref="char:EOLhyphen"/>ful unto them who have been bountiful unto us:</hi> Whereupon <hi>Alexander,</hi> who exceeded all in Bounty, and <hi>Caeſar,</hi> who exceeded all in Patience, yet it was obſerved, that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e did never give to, and the other never forgive an un<g ref="char:EOLhyphen"/>grateful perſon. Yea, the very Heathen, in their moral Fa<g ref="char:EOLhyphen"/>vours feigned <hi>Ixion,</hi> becauſe he had been unthankful to <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> who ſaved his Life, to be tortured and tormented on a Wheel, crying, τὸν ἐυεργέτην ἀγαυαῖς ἀμοιβαῖς ἐποιχομένους τίμεσθαι: Oh remember to be grateful to your Benefactors! <hi>Si in<g ref="char:EOLhyphen"/>gratum dixeris, omnia dixeris</hi> (ſaith the Learned <hi>Seneca,</hi> but a <hi>Pagan:) Him that thou callest ungrateful, thou calleſt all to nought.</hi>
+            </p>
+            <p>And <hi>Socrates</hi> (another Learned Heathen) did ſee and ſay ἀκαριστίαν ἀδικίαν εῖ̔ναι; that <hi>
+                  <g ref="char:V">Ʋ</g>nthankfulneſs is a groſs act of Injuſtice;</hi> nay, Injuſtice againſt God (ſaith holy <hi>David</hi>) as depriving him of that quit-rent due to him the great Lord of the Univerſe; ſo (<hi>Pſalm</hi> 50.15.) <hi>Call upon me in the day of trouble, I will hear you, and thou ſhalt praiſe me.</hi>
+            </p>
+            <p n="2">(2.) Nature doth teach us this Leſſon of Grace, for naturally every effect muſt be brought back to his cauſe. Now God is the cauſe of all things and perſons, and the preſerver of them too; therefore whatſoever we have, and whatſoever we are, muſt be aſcribed to God.</p>
+            <p>Hence is that challenge of St. <hi>Auguſt. (Confeſſ.</hi> 4.4.)
+<pb n="25" facs="tcp:107445:15"/>
+               <hi>Quis Laudes tuas enumeret unus, quas in ſe uno expertus eſt.</hi> What Man alive is able to praiſe God for his Goodneſs, which he alone hath received in his own Perſon? certainly we ſhould be all Bankrupts, if we were called upon for this one Debt.</p>
+            <p>Since now the very <hi>Heathens</hi> preſs this duty warmly: and ſince there is a generous gratitude in Nature; what elſe means that of <hi>Iſrael</hi>'s ſweet Singer (<hi>Pſalm</hi> 19.1.) <hi>The heavens de<g ref="char:EOLhyphen"/>clare the Glory of God, and the Firmament ſheweth his handy<g ref="char:EOLhyphen"/>work:</hi> How much more does gratitude become God's Chil<g ref="char:EOLhyphen"/>dren? Honour is due, (there is none but will grant it) to the Creator, from the creature: and who ſo tender of this his honour as his Children and Servants? Now what courſe take they for it? How do they give it him? <hi>Who ſo offereth me Praiſe and thanksgiving,</hi> (ſaith God) <hi>he honoureth me</hi> (Pſalm 50.23.)</p>
+            <p>The Property of God is <hi>benefacere,</hi> and the property of Man is <hi>benedicere:</hi> God doth bleſs Man with his benefits: and Man doth bleſs God for them. I need not tell you that the <hi>Heathen</hi> after they had eſcaped ſhipwrack, hung up their <hi>Votivas Tabulas</hi> to <hi>Neptune:</hi> and after Victory, beſides Sup<g ref="char:EOLhyphen"/>plications, they did put Garlands upon the Images of their Gods, and left the chief ſpoils taken in War, in the Temple of <hi>Mars.</hi> I need not tell you that the <hi>Jews</hi> by the Command ment of God, reſerved a golden pot of that <hi>Mannah,</hi> in the Ark, in memory of that <hi>Mannah</hi> which fell in the Wilderneſs: and in a thankful acknowledgment to eterniſe the Memorial of their paſſages out of <hi>Egypt,</hi> and freedom from Servitude, they altered their <hi>Calendar,</hi> and made that
+<pb n="26" facs="tcp:107445:16"/>Month in which God by <hi>Moſes</hi> delivered them out of the Houſe of Bondage, the beginning of their Months. (<hi>Exod.</hi> 12.2.) Let it ſuffice to tell you, that the Holy <hi>David</hi> in the reflections he made, either up<g ref="char:EOLhyphen"/>on his danger or deliverances, ever looks up to Heaven, and acknow<g ref="char:EOLhyphen"/>ledges that the Race is not to the Swift, nor the Battle to the Strong; but that God alone giveth Victory unto Kings. How doth he launch forth in the praiſes of God his deliverer? (<hi>Pſalm</hi> 92.1.) <hi>It is a good thingto give thanks unto the Lord, and to Sing praiſes unto thy name, O thou moſt High.</hi> Likewiſe, (Pſalm 34.1.2.) <hi>I will bleſs the Lord at all times: his praiſe ſhall continually be in my mouth. My Soul ſhall make her boaſt in the Lord: the humble ſhall hear thereof and be glad.</hi> Alſo, (<hi>Pſalm</hi> 146.12.) <hi>Praiſe the Lord O my Soul. While I live will I praiſe the Lord: I will Sing praiſes unto God, while I have my being.</hi> Again, (Pſalm 115.1.) <hi>Not unto us O Lord, not unto us, but unto thy name give glory: for thy mercy and thy truth ſake.</hi> And, (Pſalm 116.12, 13.) <hi>What ſhall I render unto the Lord for all his benefits towards me? I will take the cup of Salvation, and call upon the name of the Lord.</hi> Thus in the Text: <hi>I will Sing a new Song unto thee O God! upon a Pſaltery, and an Inſtrument of ten ſtrings will I ſing Praiſes unto thee.</hi> Holy <hi>David</hi> (as ſome conceive) was therefore ſtiled a Man after God's own heart: becauſe he abound<g ref="char:EOLhyphen"/>ed much in Praiſe and Thankſgiving. Somewhat now briefly by way of improvment, and I have done.</p>
+            <p>To wave generals; what <hi>I</hi> have further to ſay, <hi>I</hi> ſhall reduce to our preſent Caſe: and ſo the <hi>
+                  <g ref="char:V">Ʋ</g>ſe I</hi> ſhall make of what has been deliver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, will have a threefold aſpect.</p>
+            <p>To the Enemies of our King: to the King himſelf: To us, his Loyal Subjects. (1.) Hath God (who giveth Salvation unto Kings) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me after time, more eſpecially at this time, delivered our Royal <hi>David</hi> from the hurtfull Sword? <hi>I</hi> ſhall then improve it to the diſ<g ref="char:EOLhyphen"/>couragment of all Traitors and Ill-minded Perſons againſt him: to let them ſee how hopeleſs and improbable all their wicked attempts againſt him are like to be.</p>
+            <pb n="27" facs="tcp:107445:16"/>
+            <p>Oh that they would conſider what a Darling of Providence hither<g ref="char:EOLhyphen"/>to our King <hi>William</hi> hath been, and how probable all attempts againſt him will be in vain, as they have yet all along been, tho' never ſo cloſely and cunningly, and probably contrived. His Enemies may plot, deſign, conſpire, rebel; they may ſtamp and rage, and fret and ſtorm: but all to no purpoſe; for <hi>if God be for</hi> him, <hi>who can be againſt</hi> him?</p>
+            <p>(2dly.) Is God ſo tender over Princes Safety (as hath been told you;) and ought not they to be as tender of his Honour? is he ſo gracious to them, and ought not they to be as grateful to him? to come yet nearer home, Is our Royal <hi>David</hi> delivered <hi>from the hurt<g ref="char:EOLhyphen"/>ful Sword,</hi> and ſhall he not <hi>ſing a new Song, a Song of Praiſe?</hi>
+            </p>
+            <p>Beloved, he needs no Spur, that is free of himſelf; ſhall he not do it? what mean I to render that in the leaſt ſuſpicious, which is obvious and plain, and paſt all doubt? for he both knows his duty, and makes a Conſcience of performing it. <hi>I prae, ſequar,</hi> is a thing moſt abominable to our King <hi>William,</hi> whether in the Field or in the Chappel.</p>
+            <p>Does he confront the Enemy, a malicious, a Death-threatning E<g ref="char:EOLhyphen"/>nemy? <hi>Eamus</hi>— may moſt juſtly be his motto, <hi>Come, Let us go:</hi> He couragiouſly leads on all the reſt.</p>
+            <p>Does he return Victorious? God ſhall be ſure to hear of him, up<g ref="char:EOLhyphen"/>on the Organ, and other loud-ſounding Inſtruments will he ſing Prai<g ref="char:EOLhyphen"/>ſes unto him. This needs no further confirmation, than our call<g ref="char:EOLhyphen"/>ing to mind this day we now keep, by Their Majeſties Appointment, to preſerve from oblivion his wonderful Preſervation from immi<g ref="char:EOLhyphen"/>nent deſtruction; attended (bleſſed be God) with a noble Victory; and as not content himſelf to do it (to make uſe of our <hi>Pſalmiſt</hi>'s words, <hi>Pſalm.</hi> 15.14.) He enjoins us alſo to offer unto God praiſe, which</p>
+            <p>(3dly.) Suggeſts it our duty as well as his. We are all to write af<g ref="char:EOLhyphen"/>ter the Copy ſet us; and as we partake of the benefit, ſo are we to make one in the duty of Praiſe and Thankſgiving. <hi>Salvation is come unto</hi> our <hi>Iſrael out of</hi> Sion, <hi>and therefore muſt</hi> Jacob <hi>rejoice, and</hi> Iſrael <hi>be glad.</hi> Days of Mercy call for Days of Thankfulneſs; and publick Mercies, for publick and extraordinary Thanks. Thanks real, not verbal only. Thanks are not thank-worthy, if they float
+<pb n="28" facs="tcp:107445:17"/>only in the mouth for a time, and ſpring not continually from the heart; if only lip-deep, and reach not our lives.</p>
+            <p>When our Praiſes are obediential, then, and only then, are they acceptable unto God. <hi>Saul</hi> could not blind <hi>Samuel's</hi> eyes with his many good Morrows, that <hi>the People ſaved the beſt of the Cattel for Sa<g ref="char:EOLhyphen"/>crifice: Hath the Lord</hi> (ſaith he) <hi>as great delight in Burnt-Offerings and Saerifice, as in obeying his voice? behold, to obey is better than Sacri<g ref="char:EOLhyphen"/>fice, and the fat of Lambs,</hi> (1 <hi>Sam.</hi> 15.22.) As if he had ſaid, What, <hi>Saul,</hi> thinkeſt thou to bribe God with a Sacrifice while thou art diſ<g ref="char:EOLhyphen"/>obedient to his Command? Doſt thou take the Swan, and ſtick the Feather in the room? Doſt thou deny him thine own heart to obey his word, and give him a Beaſts heart in Sacrifice for it? Is this the Oblation that he hath required, or will accept? Truly, God riſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>angry from our Thankſgiving-Feaſts, if Obedience be not a Diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Table; without this, we and our Sacrifices may burn toge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her.</p>
+            <p>If we <hi>ſing a new Song,</hi> if we <hi>ſing praiſes unto God,</hi> the Son of <hi>Syrac</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill tell us that <hi>Praiſe is not comely in the month of a Sinnor, for it was not ſent him of the Lord.</hi> To conclude, when a motion was made in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Senate of dedicating a Statue of maſſie Gold to the Honour of <hi>Germanicus, Tiberius</hi> the Emperor oppoſed it, but upon a very plau<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ible pretence, that Images of Braſs and Gold are ſubject to many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſualties, they may be ſtolen away, they may be defaced and batter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, foul indignity and ſcorn may be put upon 'em; <hi>Theſe are the Sta<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes of Virtue, and Altars of Fame, which are ſet up in Mens Hearts.</hi> Such Altars hath our Sovereign erected in the hearts of all his loving and loyal Subjects, upon which we offer this day, throughout all his Dominions, the Sacrifice of Praiſe and Thankſgiving, for His Majeſties marvelous Deliverance in his Royal Perſon, and the Succeſs of his Arms. (<hi>Pſalm</hi> 19.2.) <hi>One day ſhall tell another, and one night ſhall proclaim it to another, the great things the Lord did at this time for his Anointed.</hi>
+            </p>
+            <p>Δόξα μόνῳ τῶ Θεῶ.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107445:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
